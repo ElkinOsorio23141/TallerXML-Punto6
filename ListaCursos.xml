@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE ListaCursos SYSTEM "ListaCursos.dtd">
+<ListaCursos>
+    <curso>
+        <alumno>
+            <DNI>1039701773</DNI>
+            <nombre>Elkin</nombre>
+            <primer-apellido>Osorio</primer-apellido>
+            <ListaAsignaturas>
+                <asignatura codigo="ING1020">
+                    <nombre>CES 3</nombre>
+                    <profesor>
+                        <NRP>1020</NRP>
+                        <nombre>Oscar</nombre>
+                        <primer-apellido>Mesa</primer-apellido>
+                    </profesor>
+                </asignatura>
+            </ListaAsignaturas>
+        </alumno>
+    </curso>
+</ListaCursos>
